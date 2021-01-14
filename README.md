@@ -1,0 +1,2 @@
+# precision_report_rate
+一个精确测试HID报告率的软件
